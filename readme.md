@@ -1,7 +1,6 @@
 # node-express-swindler
 
-Node swindler is a small library for extend Express app by middleware destruct file system function.
-I hope this package useful for freelancers.
+Node swindler is a small library for extend Express app by middleware destruct file system.
 
 ### Requirements
 Node.js, npm

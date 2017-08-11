@@ -1,0 +1,27 @@
+{
+  "name": "node-anti-swindler",
+  "version": "0.0.1",
+  "description": "Afraid that the customer will pay? Package for destruct swindler`s env and files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderGY/node-anti-swindler.git"
+  },
+  "keywords": [
+    "freelance",
+    "swindler",
+    "fraud",
+    "destruct",
+    "defence",
+    "locker"
+  ],
+  "author": "alexile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderGY/node-anti-swindler/issues"
+  },
+  "homepage": "https://github.com/AlexanderGY/node-anti-swindler#readme"
+}
